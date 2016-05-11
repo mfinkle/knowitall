@@ -1,0 +1,17 @@
+{
+  "name": "knowitall",
+  "version": "0.0.1",
+  "description": "Exploring machine learning with an IRC bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ddg": "0.0.3",
+    "irc": "^0.4.1",
+    "request": "^2.72.0",
+    "unfluff": "^1.0.0"
+  }
+}

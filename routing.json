@@ -1,0 +1,27 @@
+{
+  "help-bot": "i can help answer a few types of questions: getting started, building the code, meetings info, and graphs for apk size and memory usage",
+  "help-mobile": "try looking at our Get Involved page https://wiki.mozilla.org/Mobile/Get_Involved",
+  "release-mobile": "release calendars for android (https://wiki.mozilla.org/RapidRelease/Calendar) and ios (https://wiki.mozilla.org/Firefox_for_iOS_Train_Schedule)",
+  "build-howto-android": "learn more about building firefox for android https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Firefox_for_Android_build",
+  "build-howto-ios": "learn more about building firefox for ios https://github.com/mozilla/firefox-ios#building-the-code",
+  "meeting-mobile": "mobile meeting happens on wednesdays @ 9:30AM PT https://wiki.mozilla.org/Mobile/Notes",
+  "meeting-android": "android team meeting happens on friday",
+  "meeting-ios": "ios team meeting happens on thursday",
+  "bug-goodfirst": "take a look for some good starter bugs http://www.joshmatthews.net/bugsahoy/?mobileandroid=1&mobileios=1",
+  "reply-thanks": "yw",
+  "reply-insult": "stay classy",
+  "reply-positive": "happy to be of service",
+  "reply-negative": "i'll try better next time",
+  "memory-graph": {
+    "url": "https://treeherder.mozilla.org/perf.html#/graphs?series=[fx-team,46a11d8e6e98ad259466835fa3e404cbaccdd98d,1]&series=[fx-team,a36cf74e18272738b5a995b7ce582cde09effd32,1]&series=[fx-team,02addc52c400ab9b0eb1a4e4f60a3946be14828f,1]&series=[fx-team,a933e3dc39f62b93125a0595324b9caecaad27fb,1]&series=[fx-team,a5c23e8bdedf2586da170956d1279504f960c13a,1]&series=[fx-team,007da05461775ef0c2d3754aac9fc5a4a6ebb811,1]",
+    "shortURL": "http://mzl.la/1RWdZiG",
+    "filename": "fxteam-memory.png",
+    "clip": { "top": 775, "left": 0, "width": 1240, "height": 450 }
+  },
+  "apksize-graph": {
+    "url": "https://treeherder.mozilla.org/perf.html#/graphs?series=%5Bmozilla-inbound,c5af03f2e8b46331d479333c6b66802580f1be8a,1%5D&series=%5Bfx-team,c5af03f2e8b46331d479333c6b66802580f1be8a,1%5D",
+    "shortURL": "http://mzl.la/1VaRJbi",
+    "filename": "apksize.png",
+    "clip": { "top": 350, "left": 0, "width": 1240, "height": 450 }
+  }
+}

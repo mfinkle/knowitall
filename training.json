@@ -1,0 +1,83 @@
+{
+  "help-bot": [
+    "what can you do",
+    "what are you",
+    "help me",
+    "how can you help"
+  ],
+  "help-mobile": [
+    "how do i get started",
+    "can anyone help",
+    "help me get started"
+  ],
+  "release-mobile": [
+    "when is the next release",
+    "when is the next merge",
+    "how long until the next merge",
+    "what is the next release date"
+  ],
+  "build-howto-android": [
+    "how do i build fennec firefox android",
+    "where are docs for building fennec firefox android",
+    "help me build fennec firefox android"
+  ],
+  "build-howto-ios": [
+    "how do i build firefox ios",
+    "where are docs for building firefox ios",
+    "help me build fennec firefox ios"
+  ],
+  "meeting-mobile": [
+    "mobile meeting",
+    "when is the mobile meeting",
+    "link for mobile meeting",
+    "mobile meeting notes"
+  ],
+  "meeting-android": [
+    "android team meeting",
+    "fennec android meeting",
+    "android front end meeting"
+  ],
+  "meeting-ios": [
+    "ios team meeting",
+    "fennec ios meeting",
+    "ios front end meeting"
+  ],
+  "bug-goodfirst": [
+    "find a good first bug",
+    "look for a good first bug",
+    "list of easy bugs for contributors",
+    "list of good bugs for contributors",
+    "good contributor bug",
+    "easy contributor bug",
+    "simple contributor bug"
+  ],
+  "memory-graph": [
+    "android memory usage",
+    "fennec memory graph",
+    "memory usage"
+  ],
+  "apksize-graph": [
+    "apk size",
+    "fennec size",
+    "android apk size"
+  ],
+  "reply-thanks": [
+    "thanks",
+    "thank you",
+    "thx",
+    "great job"
+  ],
+  "reply-insult": [
+    "you suck",
+    "you jerk"
+  ],
+  "reply-positive": [
+    "great",
+    "awesome",
+    "fantastic",
+    "amazing"
+  ],
+  "reply-negative": [
+    "horrible pathetic worst shit crap"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+	"channels": ["#mobile, #your-private-test-channel"],
+	"server": "irc.mozilla.org",
+	"botName": "knowitall-fake",
+	"port": "6697",
+	"secure": "true"
+}
